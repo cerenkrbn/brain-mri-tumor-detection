@@ -37,10 +37,15 @@ Derin öğrenme tabanlı **Convolutional Neural Network (CNN)** modeli ile küç
  Sonuçlar:
 - Test Accuracy (Doğruluk): ~%60  
 - Test AUC: ~0.77  
-- Model, küçük veri setine rağmen anlamlı bir ayırma gücü göstermiştir.  
+- Model, küçük veri setine rağmen anlamlı bir ayırma gücü göstermiştir.
+---
+Amaç:
+  Bu projeyi geliştirmedeki amacım, yapay zekâ ve derin öğrenme yöntemlerini gerçek bir tıbbi veri seti üzerinde uygulayarak hem teknik becerilerimi geliştirmek hem de sağlık alanında yapay zekânın potansiyelini daha yakından keşfetmektir.  
 
-### Şekil 1. Eğitim ve Doğrulama Doğruluk Eğrileri
-![Accuracy Curve](assets/accuracy_curve.png)
+Çalışma boyunca veri ön işleme, model kurma, eğitim, değerlendirme ve sonuçların raporlanması gibi adımları uçtan uca deneyimledim. Böylece sadece bir model kurmakla kalmayıp, Kaggle–GitHub iş akışını da öğrenerek araştırma odaklı, yeniden üretilebilir bir proje ortaya koydum.  
+
+Gelecekte, daha büyük ve dengeli veri setleriyle ve transfer learning yöntemleriyle bu çalışmayı ileri taşımayı hedefliyorum.
+
 
 ---
 
